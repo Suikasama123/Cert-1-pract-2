@@ -6,6 +6,23 @@
 __MACOSX/
 bin/
 obj/
+.vs/
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Application logs
+logs/
+*.log
+log*.txt
 
 # Common node modules locations
 /node_modules
