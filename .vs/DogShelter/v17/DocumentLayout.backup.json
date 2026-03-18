@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TEMP\\DogShelter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|c:\\temp\\dogshelter\\services\\dogbreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|solutionrelative:services\\dogbreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|c:\\temp\\dogshelter\\controllers\\sheltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|solutionrelative:controllers\\sheltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|c:\\temp\\dogshelter\\models\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|solutionrelative:models\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|c:\\temp\\dogshelter\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|c:\\temp\\dogshelter\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|c:\\temp\\dogshelter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|c:\\temp\\dogshelter\\dogsdatastore.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5EE911D-1CC3-B494-BB48-16FFA2B4731F}|DogShelter.csproj|solutionrelative:dogsdatastore.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogBreed.cs",
+              "DocumentMoniker": "C:\\TEMP\\DogShelter\\Models\\DogBreed.cs",
+              "RelativeDocumentMoniker": "Models\\DogBreed.cs",
+              "ToolTip": "C:\\TEMP\\DogShelter\\Models\\DogBreed.cs",
+              "RelativeToolTip": "Models\\DogBreed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:56:04.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\TEMP\\DogShelter\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Models\\Response.cs",
+              "ToolTip": "C:\\TEMP\\DogShelter\\Models\\Response.cs",
+              "RelativeToolTip": "Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:56:35.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogBreedService.cs",
+              "DocumentMoniker": "C:\\TEMP\\DogShelter\\Services\\DogBreedService.cs",
+              "RelativeDocumentMoniker": "Services\\DogBreedService.cs",
+              "ToolTip": "C:\\TEMP\\DogShelter\\Services\\DogBreedService.cs",
+              "RelativeToolTip": "Services\\DogBreedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:51:40.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\TEMP\\DogShelter\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\TEMP\\DogShelter\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T00:53:06.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\TEMP\\DogShelter\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\TEMP\\DogShelter\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T00:53:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DogsDatastore.csv",
+              "DocumentMoniker": "C:\\TEMP\\DogShelter\\DogsDatastore.csv",
+              "RelativeDocumentMoniker": "DogsDatastore.csv",
+              "ToolTip": "C:\\TEMP\\DogShelter\\DogsDatastore.csv",
+              "RelativeToolTip": "DogsDatastore.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-17T00:47:45.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShelterController.cs",
+              "DocumentMoniker": "C:\\TEMP\\DogShelter\\Controllers\\ShelterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShelterController.cs",
+              "ToolTip": "C:\\TEMP\\DogShelter\\Controllers\\ShelterController.cs",
+              "RelativeToolTip": "Controllers\\ShelterController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:46:10.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
